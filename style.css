@@ -1,0 +1,9 @@
+*{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin:20px;
+}
+
+img{
+    border:1px solid gray;
+    width: 1400px;
+    height:800px;
+}
